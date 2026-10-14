@@ -1,0 +1,17 @@
+{
+  "train": 7519,
+  "val": 1611,
+  "test": 1611,
+  "total": 10741,
+  "class_counts": {
+    "Bacterial Leaf Blight": 1475,
+    "Bakanae Disease": 100,
+    "Blast": 1000,
+    "Brown Spot": 1570,
+    "False Smut": 50,
+    "Healthy": 1882,
+    "Leaf Scald": 1670,
+    "Narrow Brown Spot": 1416,
+    "Sheath Blight": 1578
+  }
+}

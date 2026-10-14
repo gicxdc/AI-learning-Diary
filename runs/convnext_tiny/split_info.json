@@ -1,0 +1,38 @@
+{
+  "class_names": [
+    "Bacterial Leaf Blight",
+    "Bakanae Disease",
+    "Blast",
+    "Brown Spot",
+    "False Smut",
+    "Healthy",
+    "Leaf Scald",
+    "Narrow Brown Spot",
+    "Sheath Blight"
+  ],
+  "train_count": 7519,
+  "val_count": 1611,
+  "test_count": 1611,
+  "class_counts": {
+    "0": 1475,
+    "1": 100,
+    "2": 1000,
+    "3": 1570,
+    "4": 50,
+    "5": 1882,
+    "6": 1670,
+    "7": 1416,
+    "8": 1578
+  },
+  "class_name_counts": {
+    "Bacterial Leaf Blight": 1475,
+    "Bakanae Disease": 100,
+    "Blast": 1000,
+    "Brown Spot": 1570,
+    "False Smut": 50,
+    "Healthy": 1882,
+    "Leaf Scald": 1670,
+    "Narrow Brown Spot": 1416,
+    "Sheath Blight": 1578
+  }
+}
